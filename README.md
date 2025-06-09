@@ -1,5 +1,7 @@
 MCP: https://modelcontextprotocol.io/introduction
 
+![mcp.jpeg](mcp.jpeg)
+
 MCP Tools: 
 1. https://github.com/arinspunk/claude-talk-to-figma-mcp
 2. https://github.com/JetBrains/mcp-jetbrains/tree/main
